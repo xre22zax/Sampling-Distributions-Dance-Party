@@ -26,6 +26,7 @@ to plot a histogram including sampling of population variance, mean, min
 
 ### Conclusion :
 
-Sampling distribution of the mean, min andvariance
+Sampling distribution of the mean, min and variance </br>
 Sampling population mean, min and variance
+
 Using sampling_distribution() to plot bar charts
