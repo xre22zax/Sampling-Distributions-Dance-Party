@@ -1,6 +1,6 @@
 # calculate disturbution of songs of spotify
 
-## calculate the standard error, probability of observing an average tempo
+calculate the standard error, probability of observing an average tempo
 
 ---
 
