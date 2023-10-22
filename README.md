@@ -21,3 +21,11 @@ to plot a histogram including sampling of population variance, mean, min
 *matplotlib
 *scipy
 *seaborn
+
+---
+
+### Conclusion :
+
+Sampling distribution of the mean, min andvariance
+Sampling population mean, min and variance
+Using sampling_distribution() to plot bar charts
